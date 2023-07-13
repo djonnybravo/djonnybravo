@@ -1,5 +1,5 @@
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djonnybravo&layout=compact)](https://github.com/djonnybravo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djonnybravo)](https://github.com/djonnybravo)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=djonnybravo)](https://git.io/streak-stats)
 
 
