@@ -3,13 +3,9 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=djonnybravo)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djonnybravo&layout=compact)](https://github.com/djonnybravo)
-
+<!--
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=djonnybravo&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-</div>
-
-
-<div align="center">
-
+-->
 [![codewars](https://www.codewars.com/users/djonnybravo/badges/large)](https://www.codewars.com/users/djonnybravo)
 
 </div>
