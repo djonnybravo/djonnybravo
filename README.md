@@ -1,17 +1,16 @@
 <div align='center'>
 
-
-
 <img align="center" height="170" src="https://streak-stats.demolab.com?user=djonnybravo&theme=darcula&hide_border=true)](https://git.io/streak-stats"/>
 <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=djonnybravo&layout=compact&langs_count=16&theme=dracula"/>
-
+<br>
+[![codewars](https://www.codewars.com/users/djonnybravo/badges/large)](https://www.codewars.com/users/djonnybravo)
 <!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=djonnybravo)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djonnybravo&layout=compact)](https://github.com/djonnybravo)
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=djonnybravo&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 -->
 
-[![codewars](https://www.codewars.com/users/djonnybravo/badges/large)](https://www.codewars.com/users/djonnybravo)
+
 
 </div>
 
