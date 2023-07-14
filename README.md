@@ -2,8 +2,12 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=djonnybravo)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djonnybravo&layout=compact)](https://github.com/djonnybravo)
+<img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=djonnybravo&layout=compact&langs_count=16&theme=dracula"/>
+
+
+
 <!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djonnybravo&layout=compact)](https://github.com/djonnybravo)
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=djonnybravo&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 -->
 [![codewars](https://www.codewars.com/users/djonnybravo/badges/large)](https://www.codewars.com/users/djonnybravo)
