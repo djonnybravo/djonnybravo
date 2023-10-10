@@ -1,3 +1,4 @@
+<!--
 <div align='center'>
 
 <img align="center" height="170" src="https://streak-stats.demolab.com?user=djonnybravo&theme=dark&hide_border=true)](https://git.io/streak-stats"/>
@@ -6,17 +7,17 @@
 <br>
 
 [![codewars](https://www.codewars.com/users/djonnybravo/badges/large)](https://www.codewars.com/users/djonnybravo)
-<!--
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=djonnybravo)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djonnybravo&layout=compact)](https://github.com/djonnybravo)
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=djonnybravo&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
--->
+
 
 
 
 </div>
 
-
+-->
 <div align="center">
 <a href="https://reactjs.org">
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
